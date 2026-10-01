@@ -1,5 +1,3 @@
 <p align="center">
-  <img width="1000" height="677" alt="profile" src="https://github.com/user-attachments/assets/158cebc2-f3b9-426b-98a4-6e207f5d02bd" />
+  <img width="800" height="541" alt="profile (1)" src="https://github.com/user-attachments/assets/69fbb46b-36ec-4655-a928-14ecf7c57f12" />
 </p>
-
-If you like my work, please [Sponsor me ❤️]; it would be a great help to me.
